@@ -7,7 +7,7 @@
     overflow:hidden;
     .item{
         flex:1;
-        height: 94vh;
+        height: 90vh;
         transition: all .8s ease-in-out;
         position: relative;
         .gold{
@@ -91,7 +91,7 @@
     .accordion{
         flex-direction: column;  
         .item{
-            height: 23vh;
+            height: 22.5vh;
         };     
     }
 }

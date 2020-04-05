@@ -3,7 +3,7 @@ import "./style.scss"
 
 function Nav() {
     return (
-        <div className="uk-navbar-container" data-uk-navbar>
+        <div data-uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky" className="uk-navbar-container" data-uk-navbar>
             <div className="uk-navbar-left">
                 <span className="uk-button  uk-margin-small-right" type="button" data-uk-toggle="target: #offcanvas-push" uk-icon="icon: table"></span>
             </div>

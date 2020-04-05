@@ -25,6 +25,8 @@ function App() {
             background={project.background}
             title= {project.title}
             description= {project.description}
+            url= {project.url}
+            link= {project.link}
           ></Card>
         )
       })
