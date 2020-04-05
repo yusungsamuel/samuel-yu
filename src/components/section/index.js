@@ -3,7 +3,7 @@ import "./style.scss";
 
 function Section(props){
     return (
-        <div className={PaymentResponse.className}>
+        <div className={props.className}>
             {props.children}
         </div>
     )

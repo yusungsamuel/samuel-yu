@@ -14,13 +14,13 @@ function Nav() {
     
                 <ul className="uk-navbar-nav">
                     <li>
-                        <a href="https://github.com/yusungsamuel"><i className="fab fa-github"></i></a>
+                        <a href="https://github.com/yusungsamuel" data-uk-icon="icon:github"></a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/samuel-yu-1431b8103/"><i className="fab fa-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/in/samuel-yu-1431b8103/" data-uk-icon="icon:linkedin"></a>
                     </li>
                     <li>
-                        <a><i className="fab fa-dropbox"></i></a>
+                        <a href="/" data-uk-icon="icon: folder"></a>
                     </li>
                 </ul>
             </div>
