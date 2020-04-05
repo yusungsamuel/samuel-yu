@@ -8,7 +8,9 @@ function Nav() {
                 <span className="uk-button  uk-margin-small-right" type="button" data-uk-toggle="target: #offcanvas-push" uk-icon="icon: table"></span>
             </div>
             <div className="uk-navbar-right">
-                <a href="" className="uk-navbar-item uk-logo"></a>
+    
+            <div class="uk-navbar-center"><h2>Samuel Yu</h2></div>
+
                 <ul className="uk-navbar-nav">
                     <li>
                         <a href="https://github.com/yusungsamuel"><i className="fab fa-github"></i></a>
