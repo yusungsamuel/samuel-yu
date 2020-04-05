@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
 .accordion{
     display: flex;
     justify-content: center;
@@ -26,11 +28,50 @@
             height:100%;
             transition: all 1s ease-in-out;
             &:hover{
-                background-color: #ffffff00;    
+                background-color: #ffffff00;
+                .button-wrap {
+                    .sketchy{
+                        visibility: visible;
+                    }
+                }    
             };
             header{
                 font-size: 40px;
                 color:white;
+            };
+            .button-wrap{
+                height:100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                .sketchy {
+                    visibility: hidden;
+                    transition: all 1s ease-in-out;
+                    padding: 1rem 2rem;
+                    display: inline-block;
+                    border: 3px solid #333333;
+                    font-size: 1rem;
+                    border-radius: 2% 6% 5% 4% / 1% 1% 2% 4%;
+                    text-transform: uppercase;
+                    letter-spacing: 0.3ch;
+                    background: #ffffff;
+                    position: relative;
+                    text-align: center;
+                    font-family: 'Just Another Hand', cursive;
+                    &::before {
+                        content: '';
+                        border: 2px solid #353535;
+                        display: block;
+                        width: 100%;
+                        height: 100%;
+                        position: absolute;
+                        top: 50%;
+                        left: 50%;
+                        transform: translate3d(-50%, -50%, 0) scale(1.015) rotate(0.5deg);
+                        border-radius: 1% 1% 2% 4% / 2% 6% 5% 4%;
+                    }
+                }
             }
         };
         
