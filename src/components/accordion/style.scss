@@ -5,7 +5,7 @@
     overflow:hidden;
     .item{
         flex:1;
-        height: 90vh;
+        height: 93vh;
         transition: all .8s ease-in-out;
         position: relative;
         .gold, .silver, .gray, .bronze{
@@ -41,3 +41,13 @@
     }
     
 }
+
+@media screen and (max-width: 576px){
+    .accordion{
+        flex-direction: column;  
+        .item{
+            height: 23vh;
+        };     
+    }
+}
+    
