@@ -1,0 +1,55 @@
+[
+    
+    {
+        "title": "App@rent",
+        "description": "Forum for Parents to share information",
+        "link":"https://appparent.herokuapp.com/", 
+        "url": "https://github.com/SophM/APParent",
+        "background":"./assets/images/apparent.png"
+    },
+    {
+        "title": "Boba Guide",
+        "description": "Fullstack Boba Drink Recommendation App",
+        "link": "https://boba-guide.herokuapp.com/",
+        "url": "https://github.com/yusungsamuel/Boba-Guide",
+        "background": "./assets/images/bobaGuide.png" 
+
+    },
+    {
+        "title": "Beerus Simulator",
+        "description": "App to Showcase Particlize Effect With a Dragonball Super Theme",
+        "link": "https://berrus-simulator.herokuapp.com/",
+        "url": "https://github.com/yusungsamuel/God-Of-Destruction-Simulator",
+        "background": "./assets/images/beerus.png" 
+    },
+    {
+        "title": "What The Fridge",
+        "description": "Recipe Search App",
+        "link": "https://yusungsamuel.github.io/What-The-Fridge-/",
+        "url": "https://github.com/yusungsamuel/What-The-Fridge-",
+        "background": "./assets/images/WTF.png" 
+    },
+    
+    {
+        "title": "All the Anime News",
+        "description": "CRUD App for Reading Anime News ",
+        "link":"https://all-newly-news.herokuapp.com/",
+        "url": "https://github.com/yusungsamuel/All-the-News",
+        "background":"./assets/images/AllTheNews.png" 
+    },
+    {
+        "title": "My Hero Acadamia Game",
+        "description": "Memory Game build with React.js",
+        "link":"https://yusungsamuel.github.io/Clicky-Game/",
+        "url": "https://github.com/yusungsamuel/Clicky-Game",
+        "background": "./assets/images/clickyGame.png"
+    },
+    {
+        "title": "CodePals",
+        "description": "Platform for developers with similar interest to connect",
+        "link":"https://codepals.herokuapp.com/",
+        "url": "https://github.com/yusungsamuel/codePals",
+        "background": "./assets/images/codePals.png" 
+    }
+
+]
