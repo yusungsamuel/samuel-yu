@@ -3,7 +3,7 @@ import "./style.scss";
 
 function Section(props){
     return (
-        <div className={props.className}>
+        <div id={props.id} className={props.className}>
             {props.children}
         </div>
     )

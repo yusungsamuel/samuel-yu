@@ -16,6 +16,7 @@ function App() {
       <Accordion></Accordion>
       <Section
         className="project"
+        id="project"
       >
         {
 
@@ -35,6 +36,7 @@ function App() {
       </Section>
       <Section
         className="about"
+        id="about"
       >
         <img id="selfie" src="/assets/images/selfie.jpg" />
         <header>About</header>

@@ -11,8 +11,8 @@ function OffCanvas() {
                 <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
                     <li><h1>Samuel Yu</h1></li>
 
-                    <li><a href="#"><span class="uk-margin-small-right"></span> Projects</a></li>
-                    <li><a href="#"><span class="uk-margin-small-right"></span>About Me</a></li>
+                    <li><a href="#project"><span class="uk-margin-small-right"></span> Projects</a></li>
+                    <li><a href="#about"><span class="uk-margin-small-right"></span>About</a></li>
                     <li class="uk-nav-divider"></li>
                     {/* <li><a href="#"><span class="uk-margin-small-right" uk-icon="icon: trash"></span> Item</a></li> */}
 
