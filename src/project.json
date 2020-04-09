@@ -1,5 +1,11 @@
 [
-    
+    {
+        "title": "Sales Catalog",
+        "description": "One stop shop for on sale fashion items",
+        "link":"https://sales-catalog.herokuapp.com/",
+        "url": "https://github.com/yusungsamuel/sales-cataloge",
+        "background": "./assets/images/SalesCatalog.png" 
+    },
     {
         "title": "App@rent",
         "description": "Forum for Parents to share information",
@@ -50,6 +56,53 @@
         "link":"https://codepals.herokuapp.com/",
         "url": "https://github.com/yusungsamuel/codePals",
         "background": "./assets/images/codePals.png" 
+    },
+    {
+        "title": "Bamazon",
+        "description": "Virtual Store Simulator",
+        "url": "https://github.com/yusungsamuel/Bamazon",
+        "background": "./assets/images/bamazon.gif"
+    },
+    {
+        "title": "Google Book Search",
+        "description": "Book Search Engineer built using google book API",
+        "link":"https://google-search-book.herokuapp.com/",
+        "url": "https://github.com/yusungsamuel/Google-Search-Book",
+        "background": "./assets/images/GBookSearch.png" 
+    },
+    {
+        "title": "Hoover Bot ",
+        "description": "Smart Robot Vacuum Simulator",
+        "url": "https://github.com/yusungsamuel/robotic-hoover-simulator-",
+        "background": "./assets/images/hoover-bot-demo.gif" 
+    },
+    {
+        "title": "Liri Bot ",
+        "description": "Simple AI Assistant",
+        "url": "https://github.com/yusungsamuel/liri-bot",
+        "background": "./assets/images/liriDemo.gif" 
+    },
+    {
+        "title": "LOL Hangman",
+        "description": "League of Legend Themed Hangman",
+        "link":"https://yusungsamuel.github.io/Word-Guess-Game/",
+        "url": "https://github.com/yusungsamuel/Word-Guess-Game",
+        "background": "./assets/images/LOL.png" 
+    },
+    {
+        "title": "State Park Finder",
+        "description": "California State Park Search Engine ",
+        "link":"https://yusungsamuel.github.io/state-park-finder/",
+        "url": "https://github.com/yusungsamuel/state-park-finder",
+        "background": "./assets/images/state-park-finder.png" 
+    },
+    {
+        "title": "Train Scheduler",
+        "description": "Train schedule simlutor with real-time update",
+        "link":"https://yusungsamuel.github.io/Train-Scheduler/",
+        "url": "https://github.com/yusungsamuel/Train-Scheduler",
+        "background": "./assets/images/TrainScheduler.png" 
     }
+
 
 ]

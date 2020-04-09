@@ -10,7 +10,7 @@ function Card(props) {
             <div className="uk-card-body">
                 <div className="icon">
                     <a href={props.url} class="uk-icon-button" data-uk-icon="icon: github-alt; ratio: 2"></a>
-                    <a href={props.link} class="uk-icon-button" data-uk-icon="icon: link; ratio: 2"></a>
+                    {props.link? <a href={props.link} class="uk-icon-button" data-uk-icon="icon: link; ratio: 2"></a>: null}
                 </div>
                 <p className="title">{props.title}</p>
                 <p className="description">{props.description}</p>
