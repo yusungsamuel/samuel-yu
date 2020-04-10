@@ -3,7 +3,7 @@ import "./style.scss"
 
 function Card(props) {
     return (
-        <div className="card uk-card uk-card-default">
+        <div className="card uk-card uk-card-default" data-uk-tooltip="drag to place this project in a different order">
             <div className="uk-card-media-top">
                 <img src={props.background} alt={props.title} />
             </div>

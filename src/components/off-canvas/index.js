@@ -16,7 +16,7 @@ function OffCanvas() {
                     <li class="uk-nav-divider"></li>
                     {/* <li><a href="#"><span class="uk-margin-small-right" uk-icon="icon: trash"></span> Item</a></li> */}
 
-                    <li class="uk-parent">
+       ss            <li class="uk-parent">
                         <h3>Contact</h3>
                         <ul class="uk-nav-sub">
                         <li>
@@ -26,7 +26,7 @@ function OffCanvas() {
                         <a href="https://www.linkedin.com/in/samuel-yu-1431b8103/" data-uk-icon="icon:linkedin"></a>
                     </li>
                     <li>
-                        <a href="/" data-uk-icon="icon: folder"></a>
+                        <a href="/assets/resume/resume.pdf" target="_blank" data-uk-icon="icon: folder"></a>
                     </li>
                         </ul>
                     </li>

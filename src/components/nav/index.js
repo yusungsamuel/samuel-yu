@@ -20,7 +20,7 @@ function Nav() {
                         <a href="https://www.linkedin.com/in/samuel-yu-1431b8103/" data-uk-icon="icon:linkedin"></a>
                     </li>
                     <li>
-                        <a href="/" data-uk-icon="icon: folder"></a>
+                        <a href="/assets/resume/resume.pdf" target="_blank" data-uk-icon="icon: folder" alt="resume"></a>
                     </li>
                 </ul>
             </div>
