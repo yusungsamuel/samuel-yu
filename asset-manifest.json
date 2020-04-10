@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/samuel-yu/static/css/main.41309af0.chunk.css",
-    "main.js": "/samuel-yu/static/js/main.91da570a.chunk.js",
-    "main.js.map": "/samuel-yu/static/js/main.91da570a.chunk.js.map",
+    "main.js": "/samuel-yu/static/js/main.ce2cd5b4.chunk.js",
+    "main.js.map": "/samuel-yu/static/js/main.ce2cd5b4.chunk.js.map",
     "runtime-main.js": "/samuel-yu/static/js/runtime-main.e2ebd95c.js",
     "runtime-main.js.map": "/samuel-yu/static/js/runtime-main.e2ebd95c.js.map",
     "static/js/2.5238f293.chunk.js": "/samuel-yu/static/js/2.5238f293.chunk.js",
     "static/js/2.5238f293.chunk.js.map": "/samuel-yu/static/js/2.5238f293.chunk.js.map",
     "index.html": "/samuel-yu/index.html",
-    "precache-manifest.fd9729dc99d034292279ab6efa10b2e4.js": "/samuel-yu/precache-manifest.fd9729dc99d034292279ab6efa10b2e4.js",
+    "precache-manifest.4ce3f62921c9165b32b701eb82ef5fef.js": "/samuel-yu/precache-manifest.4ce3f62921c9165b32b701eb82ef5fef.js",
     "service-worker.js": "/samuel-yu/service-worker.js",
     "static/css/main.41309af0.chunk.css.map": "/samuel-yu/static/css/main.41309af0.chunk.css.map",
     "static/js/2.5238f293.chunk.js.LICENSE.txt": "/samuel-yu/static/js/2.5238f293.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e2ebd95c.js",
     "static/js/2.5238f293.chunk.js",
     "static/css/main.41309af0.chunk.css",
-    "static/js/main.91da570a.chunk.js"
+    "static/js/main.ce2cd5b4.chunk.js"
   ]
 }
