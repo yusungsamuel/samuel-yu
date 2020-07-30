@@ -4,21 +4,21 @@
         "description": "Full stack, decoupled application. The backend is built with Node.js, and Express.js where it scrapes sales deal off clothing sites. The sales items information from different sites are displayed in one page on Sales Catalog for you to view. The front end is built with React and styled with bootstrap and UIKit.",
         "link":"https://sales-catalog.herokuapp.com/",
         "url": "https://github.com/yusungsamuel/sales-cataloge",
-        "background": "./assets/images/SalesCatalog.png" 
+        "background": "/assets/images/SalesCatalog.png" 
     },
     {
         "title": "APParent",
         "description": "Full stack web application for parents to connect online and sharing parenting tips. Users can find other users by locations or children's school name. They can also make post, comment on post, and chat with other users. APParent is built on a SERN stack (Sequelize, Express.js, React, Node.js).",
         "link":"https://appparent.herokuapp.com/", 
         "url": "https://github.com/yusungsamuel/APParent",
-        "background":"./assets/images/apparent.png"
+        "background":"/assets/images/apparent.png"
     },
     {
         "title": "Boba Guide",
         "description": "Fullstack Boba Drink Recommendation App. Take a short survey and find out what boba drinks may be best for your liking.",
         "link": "https://boba-guide.herokuapp.com/",
         "url": "https://github.com/yusungsamuel/Boba-Guide",
-        "background": "./assets/images/bobaGuide.png" 
+        "background": "/assets/images/bobaGuide.png" 
 
     },
     {
@@ -26,14 +26,14 @@
         "description": "Full stack application with simple features to demonstrate basic CRUD (create, read, update, delete)functionality of a website. The theme of the application is based on Beerus, a Dragon Ball Super character. Users can experience how the god of destruction from this anime eliminates his opponent.",
         "link": "https://berrus-simulator.herokuapp.com/",
         "url": "https://github.com/yusungsamuel/God-Of-Destruction-Simulator",
-        "background": "./assets/images/beerus.png" 
+        "background": "/assets/images/beerus.png" 
     },
     {
         "title": "What The Fridge",
         "description": "Front-end application where the user can search for recipes based on ingredients. Just enter in what you have in you fridge and we can help you find the perfect recipes that use these ingredient.",
         "link": "https://yusungsamuel.github.io/What-The-Fridge-/",
         "url": "https://github.com/yusungsamuel/What-The-Fridge-",
-        "background": "./assets/images/WTF.png" 
+        "background": "/assets/images/WTF.png" 
     },
     
     {
@@ -41,67 +41,67 @@
         "description": "Full stack application that display the most updated anime news on a single page.",
         "link":"https://all-newly-news.herokuapp.com/",
         "url": "https://github.com/yusungsamuel/All-the-News",
-        "background":"./assets/images/AllTheNews.png" 
+        "background":"/assets/images/AllTheNews.png" 
     },
     {
         "title": "My Hero Academia Game",
         "description": "Front end game that challenges the player's memory. Try to click on all of the characters without repeating it. The theme of the game is My Hero Academia. This game is solely built with React.",
         "link":"https://yusungsamuel.github.io/Clicky-Game/",
         "url": "https://github.com/yusungsamuel/Clicky-Game",
-        "background": "./assets/images/clickyGame.png"
+        "background": "/assets/images/clickyGame.png"
     },
     {
         "title": "CodePals",
         "description": "Full stack application for developers to connect and plan events/ meetup together. Users can find other users with similar skillsets/ knowledge level. The front-end of the application is built with Handlebar.js.",
         "link":"https://codepals.herokuapp.com/",
         "url": "https://github.com/yusungsamuel/codePals",
-        "background": "./assets/images/codePals.png" 
+        "background": "/assets/images/codePals.png" 
     },
     {
         "title": "Bamazon",
         "description": "Commend line application that simulate an online store. Users can experience managing the inventory of a store.",
         "url": "https://github.com/yusungsamuel/Bamazon",
-        "background": "./assets/images/bamazon.gif"
+        "background": "/assets/images/bamazon.gif"
     },
     {
         "title": "Google Book Search",
         "description": "Full stack book Search Engineer built using google book API. Find a book by keywords.",
         "link":"https://google-search-book.herokuapp.com/",
         "url": "https://github.com/yusungsamuel/Google-Search-Book",
-        "background": "./assets/images/GBookSearch.png" 
+        "background": "/assets/images/GBookSearch.png" 
     },
     {
         "title": "Hoover Bot ",
         "description": "Commend line application that simulates a smart Robot Vacuum. Give the robot a set of instructions. You can see how the robot will navigate through a virtual room and clean it up.",
         "url": "https://github.com/yusungsamuel/robotic-hoover-simulator-",
-        "background": "./assets/images/hoover-bot-demo.gif" 
+        "background": "/assets/images/hoover-bot-demo.gif" 
     },
     {
         "title": "Liri Bot ",
         "description": "Commend line application, a simple AI assistant. You can ask liri about songs on spotify, movies, events, or ask liri to perform a random action.",
         "url": "https://github.com/yusungsamuel/liri-bot",
-        "background": "./assets/images/liriDemo.gif" 
+        "background": "/assets/images/liriDemo.gif" 
     },
     {
         "title": "LOL Hangman",
         "description": "Front end application, League of Legend Themed Hangman. Get the right answer to unlock the voice of the champion and its picture.",
         "link":"https://yusungsamuel.github.io/Word-Guess-Game/",
         "url": "https://github.com/yusungsamuel/Word-Guess-Game",
-        "background": "./assets/images/LOL.png" 
+        "background": "/assets/images/LOL.png" 
     },
     {
         "title": "State Park Finder",
         "description": "Front-end application, California State Park Search Engine. Search by keywords to find state parks within California and learn more about that specific park.",
         "link":"https://yusungsamuel.github.io/state-park-finder/",
         "url": "https://github.com/yusungsamuel/state-park-finder",
-        "background": "./assets/images/state-park-finder.png" 
+        "background": "/assets/images/state-park-finder.png" 
     },
     {
         "title": "Train Scheduler",
         "description": "Full stack application ,Train schedule simlutor. Create your own train schedule and get real time update.",
         "link":"https://yusungsamuel.github.io/Train-Scheduler/",
         "url": "https://github.com/yusungsamuel/Train-Scheduler",
-        "background": "./assets/images/TrainScheduler.png" 
+        "background": "/assets/images/TrainScheduler.png" 
     }
 
 

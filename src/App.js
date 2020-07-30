@@ -40,7 +40,7 @@ function App() {
         className="about"
         id="about"
       >
-        <img id="selfie" src="/assets/images/selfie.png" />
+        <img id="selfie" src={process.env.PUBLIC_URL+"/assets/images/selfie.png"}  />
         <header>About</header>
         <p>
           Samuel Yu is a Full Stack Web Developer based in San Francisco, California, with a passion in building responsive and user friendly websites. After graduating from UC Davis with a Bachelor of Science in Pharmaceutical Chemistry, I worked at Genentech in a provider support role. Seeking a career change and to follow my interest, I completed a 12 week Full Stack Web Development bootcamp at UC Berkeley. I have experience working with trending web development technologies such as React and Node. I am a continous learner who is looking for opportunities to further develop my professional skills at a company making a positive social impact.

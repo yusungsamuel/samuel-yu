@@ -5,7 +5,7 @@ function Card(props) {
     return (
         <div className="card uk-card uk-card-default" data-uk-tooltip="drag to place this project in a different order">
             <div className="uk-card-media-top">
-                <img src={props.background} alt={props.title} />
+                <img src={process.env.PUBLIC_URL + props.background} alt={props.title} />
             </div>
             <div className="uk-card-body">
                 <div className="icon">
