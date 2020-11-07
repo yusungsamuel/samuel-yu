@@ -1,5 +1,14 @@
 [
     {
+        
+        "title": "Covid Data Visualizer",
+        "description": "Web Application that uses Graphical Representation to shows Covid-19 data in the United States. Graphs are build using D3.js. UI is built with ReactJS and styled with UIKit.",
+        "link":"https://yusungsamuel.github.io/covid-data-visualizer/",
+        "url": "https://github.com/yusungsamuel/covid-data-visualizer",
+        "background": "/assets/images/covid-data-visualizer.png" 
+    },
+    {
+        
         "title": "Sales Catalog",
         "description": "Full stack, decoupled application. The backend is built with Node.js, and Express.js where it scrapes sales deal off clothing sites. The sales items information from different sites are displayed in one page on Sales Catalog for you to view. The front end is built with React and styled with bootstrap and UIKit.",
         "link":"https://sales-catalog.herokuapp.com/",
